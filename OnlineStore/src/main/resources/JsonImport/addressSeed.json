@@ -1,0 +1,53 @@
+[
+  {
+    "country": "Bulgaria",
+    "town": "Burgas",
+    "street": "Rilska 156"
+  },
+  {
+    "country": "Turcia",
+    "town": "Istanbul",
+    "street": "chervenkova"
+  },
+  {
+    "country": "Polsha",
+    "town": "katovice",
+    "street": "ribna"
+  },
+  {
+    "country": "Amerika",
+    "town": "New York",
+    "street": "gosfher"
+  },
+  {
+    "country": "Amazonia",
+    "town": "SkrSkr",
+    "street": "Krrkr"
+  },
+  {
+    "country": "Angliq",
+    "town": "Burgas",
+    "street": "Rilska 156"
+  },
+  {
+    "country": "Izrael",
+    "town": "Istanbul",
+    "street": "chervenkova"
+  },
+  {
+    "country": "Rusiq",
+    "town": "katovice",
+    "street": "ribna"
+  },
+  {
+    "country": "Holandiq",
+    "town": "New York",
+    "street": "gosfher"
+  },
+  {
+    "country": "Polsha",
+    "town": "SkrSkr",
+    "street": "Krrkr"
+  }
+
+]

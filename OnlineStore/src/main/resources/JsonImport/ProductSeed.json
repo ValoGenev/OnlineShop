@@ -1,0 +1,30 @@
+[
+  {
+    "name": "laptop",
+    "description": "mnogo qk i burz komp",
+    "price": 5000,
+    "discount": 0.8
+
+  },
+  {
+    "name": "kola",
+    "description": "ferari s60",
+    "price": 15000,
+    "discount": 0.2
+
+  },
+  {
+    "name": "voda",
+    "description": "ph pod 7",
+    "price": 10,
+    "discount": 0.1
+  },
+  {
+
+  "name": "kushta",
+  "description": "mnogo krasiva",
+  "price": 555000,
+  "discount": 0.4
+}
+
+]

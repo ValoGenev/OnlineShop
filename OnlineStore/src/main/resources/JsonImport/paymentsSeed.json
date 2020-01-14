@@ -1,0 +1,74 @@
+[
+  {
+    "balance": 5000,
+    "paymentType": "VISA",
+    "serialNumber": "543400-3000",
+    "expireTime": "12-12-2020"
+  },
+  {
+    "balance": 125000,
+    "paymentType": "MASTERCARD",
+    "serialNumber": "543000-3000",
+    "expireTime": "12-12-2020"
+  },
+  {
+    "balance": 55000,
+    "paymentType": "REVOLUT",
+    "serialNumber": "55000-3000",
+    "expireTime": "12-12-2020"
+  },
+  {
+    "balance": 645000,
+    "paymentType": "VISA",
+    "serialNumber": "55000-3000",
+    "expireTime": "12-12-2020"
+  },
+  {
+    "balance": 666,
+    "paymentType": "VISA",
+    "serialNumber": "543400-3000",
+    "expireTime": "12-12-2020"
+  },
+  {
+    "balance": 13413,
+    "paymentType": "MASTERCARD",
+    "serialNumber": "543000-3000",
+    "expireTime": "12-12-2020"
+  },
+  {
+    "balance": 2141,
+    "paymentType": "REVOLUT",
+    "serialNumber": "55000-3000",
+    "expireTime": "12-12-2020"
+  },
+  {
+    "balance": 666,
+    "paymentType": "VISA",
+    "serialNumber": "55000-3000",
+    "expireTime": "12-12-2020"
+  },
+  {
+    "balance": 123,
+    "paymentType": "VISA",
+    "serialNumber": "543400-3000",
+    "expireTime": "12-12-2020"
+  },
+  {
+    "balance": 55,
+    "paymentType": "MASTERCARD",
+    "serialNumber": "543000-3000",
+    "expireTime": "12-12-2020"
+  },
+  {
+    "balance": 12,
+    "paymentType": "REVOLUT",
+    "serialNumber": "55000-3000",
+    "expireTime": "12-12-2020"
+  },
+  {
+    "balance": 100,
+    "paymentType": "VISA",
+    "serialNumber": "55000-3000",
+    "expireTime": "12-12-2020"
+  }
+]

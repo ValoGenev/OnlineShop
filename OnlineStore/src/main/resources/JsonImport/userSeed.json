@@ -1,0 +1,56 @@
+[
+  {
+    "firstName": "Katrin",
+    "lastName": "Geneva",
+    "email":"katrin_geneva@abv.bg",
+    "password": "1234",
+    "phoneNumber": "0885901291",
+    "gender": "MALE",
+    "role": "ADMIN"
+  },
+  {
+    "firstName": "Mitko",
+    "lastName": "Parashkevov",
+    "email":"mitko_parashkevov@abv.bg",
+    "password": "zdr1234",
+    "phoneNumber": "08812312312",
+    "gender": "MALE",
+    "role": "USER"
+  },
+  {
+    "firstName": "Dana",
+    "lastName": "Handjieva",
+    "email":"dana_handjieva@abv.bg",
+    "password": "00125",
+    "phoneNumber": "08851231231",
+    "gender": "FEMALE",
+    "role": "USER"
+  },
+  {
+    "firstName": "Krasen",
+    "lastName": "Genev",
+    "email":"krasen_genev@abv.bg",
+    "password": "1234",
+    "phoneNumber": "05512512412",
+    "gender": "MALE",
+    "role": "ADMIN"
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Doikov",
+    "email":"ivan_doikov@abv.bg",
+    "password": "5125125",
+    "phoneNumber": "08851123132",
+    "gender": "MALE",
+    "role": "USER"
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Georgiev",
+    "email":"martin_georgiev@abv.bg",
+    "password": "parola1234",
+    "phoneNumber": "08860214215",
+    "gender": "MALE",
+    "role": "USER"
+  }
+]

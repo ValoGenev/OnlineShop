@@ -1,0 +1,87 @@
+[
+  {
+    "firstName": "Katrin",
+    "lastName": "Geneva",
+    "email": "katrin_geneva@abv.bg",
+    "password": "1234",
+    "phoneNumber": "0885901291",
+    "gender": "MALE",
+    "role": "ADMIN",
+    "orders": [
+      {
+        "id": 1,
+        "purchaseDate": "2020-01-12",
+        "products": [
+          {
+            "name": "voda",
+            "description": "ph pod 7",
+            "price": 10.00,
+            "discount": 0.1,
+            "isInStock": false,
+            "quantity": 0,
+            "shopQuantity": 500
+          },
+          {
+            "name": "laptop",
+            "description": "mnogo qk i burz komp",
+            "price": 5000.00,
+            "discount": 0.8,
+            "isInStock": false,
+            "quantity": 0,
+            "shopQuantity": 500
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "firstName": "Mitko",
+    "lastName": "Parashkevov",
+    "email": "mitko_parashkevov@abv.bg",
+    "password": "zdr1234",
+    "phoneNumber": "08812312312",
+    "gender": "MALE",
+    "role": "USER",
+    "orders": []
+  },
+  {
+    "firstName": "Dana",
+    "lastName": "Handjieva",
+    "email": "dana_handjieva@abv.bg",
+    "password": "00125",
+    "phoneNumber": "08851231231",
+    "gender": "FEMALE",
+    "role": "USER",
+    "orders": []
+  },
+  {
+    "firstName": "Krasen",
+    "lastName": "Genev",
+    "email": "krasen_genev@abv.bg",
+    "password": "1234",
+    "phoneNumber": "05512512412",
+    "gender": "MALE",
+    "role": "ADMIN",
+    "orders": []
+  },
+  {
+    "firstName": "Ivan",
+    "lastName": "Doikov",
+    "email": "ivan_doikov@abv.bg",
+    "password": "5125125",
+    "phoneNumber": "08851123132",
+    "gender": "MALE",
+    "role": "USER",
+    "orders": []
+  },
+  {
+    "firstName": "Martin",
+    "lastName": "Georgiev",
+    "email": "martin_georgiev@abv.bg",
+    "password": "parola1234",
+    "phoneNumber": "08860214215",
+    "gender": "MALE",
+    "role": "USER",
+    "orders": []
+  }
+]
